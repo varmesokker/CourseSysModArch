@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e68f9e71-df87-4d48-b12a-fd7cbbd3aad8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CourseSysModArch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diagrams/Python Projects/Creating Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture 1 creating classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture2.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +67,7 @@
       <updated>1661515607397</updated>
       <workItem from="1661515609381" duration="1243000" />
       <workItem from="1661776437958" duration="597000" />
+      <workItem from="1662106889949" duration="597000" />
     </task>
     <servers />
   </component>
